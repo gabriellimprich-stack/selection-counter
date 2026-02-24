@@ -1,0 +1,16 @@
+[general]
+name=Selection Counter
+qgisMinimumVersion=3.0
+description=Counts selected features grouped by a chosen field and displays results in a table.
+version=1.0.0
+author=Gabriel
+email=gabriel@synerjet.com
+about=A simple panel that shows how many features are selected per category value. Choose a layer and a field to group the count.
+tracker=
+repository=
+tags=selection, count, attributes, analysis
+homepage=
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False

@@ -31,6 +31,3 @@ A lightweight QGIS plugin that counts selected features grouped by a chosen attr
 ---
 
 *This plugin was developed with assistance from [Claude](https://claude.ai), an AI assistant made by [Anthropic](https://www.anthropic.com).*
-
-
-Você pode colar isso direto em um arquivo `README.md` na raiz do repositório. Se quiser, posso também gerar o `README.md` como arquivo para download, ou adaptar a descrição curta que fica no próprio campo "About" do GitHub (aquela linha que fica logo abaixo do nome do repositório).
